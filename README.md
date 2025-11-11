@@ -19,15 +19,9 @@ You'll learn to integrate **Google's Gemini API** into a **React** application, 
 
 ## 🚀 Quick Start
 
-### 1️⃣ Open the Repository
+### 1️⃣ Fork the Repository
 
-1. Visit the class GitHub link:  
-   ```
-   https://github.com/The-Pritzker-Tech-Talent-Labs/DC_Fall-Week-5-AI-Mentor
-   ```
-   *(Update this URL with your actual repository link)*
-
-2. **Fork this repo** (top-right button) and open in **GitHub Codespace**
+1. **Fork this repo** (top-right button) and open in **GitHub Codespace**
    - Click the green **"Code"** button → select **Codespaces** tab → **"Create codespace on main"**
    - Wait for it to load (it'll look like VS Code in your browser)
 
